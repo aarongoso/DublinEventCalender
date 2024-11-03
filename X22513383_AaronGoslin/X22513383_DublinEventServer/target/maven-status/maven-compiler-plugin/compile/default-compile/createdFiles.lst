@@ -1,0 +1,3 @@
+com\mycompany\dublineventserver\DublinEventServer$ClientHandler.class
+com\mycompany\dublineventserver\DublinEventServer.class
+com\mycompany\dublineventserver\DublinEventServer$IncorrectActionException.class
